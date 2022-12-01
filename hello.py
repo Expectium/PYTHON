@@ -1,5 +1,6 @@
 character_name = "Mary"
 character_age = "42"
+is_male = False
 print("There was a woman named " +  character_name + ", ")
 print("she was " + character_age + " years old.")
 character_name = "Alice"

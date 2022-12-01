@@ -1,11 +1,8 @@
-pi= 3.14
-r= input("Enter a valiue")
-domain= float(pi) * int(r).__pow__(2)
-print(domain)
-
-
-
-
+alt_taban= input("alt taban için değer gir ")
+üst_taban= input("üst taban için değer gir ")
+h= input("yükseklik için değer gir ")
+alan= (float(alt_taban) + float(üst_taban)) * float(h) / 2
+print(alan)
 
 
 
